@@ -1,0 +1,4 @@
+.ipynb_checkpoints/*
+images/*
+videos/*
+__pycache__/*
